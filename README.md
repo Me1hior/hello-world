@@ -1,2 +1,4 @@
 # hello-world
-My first repository on GitHub
+Make and commit changes.
+
+Now, I change readme.md to undestand? how work brunch in GitHub
